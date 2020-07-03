@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gestureTyping", "gestureTyping.csproj", "{63B01ECE-3AC9-B901-73D9-25162EE3EE27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gestureTyping.Plugins", "gestureTyping.Plugins.csproj", "{2DB84080-B216-8842-2BB3-526686E8E7EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63B01ECE-3AC9-B901-73D9-25162EE3EE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B01ECE-3AC9-B901-73D9-25162EE3EE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B01ECE-3AC9-B901-73D9-25162EE3EE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B01ECE-3AC9-B901-73D9-25162EE3EE27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DB84080-B216-8842-2BB3-526686E8E7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB84080-B216-8842-2BB3-526686E8E7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB84080-B216-8842-2BB3-526686E8E7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB84080-B216-8842-2BB3-526686E8E7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
